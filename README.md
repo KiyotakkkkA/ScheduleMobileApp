@@ -20,7 +20,7 @@
 ## 📦 Установка
 ```bash
 git clone https://github.com/KiyotakkkkA/ScheduleMobileApp.git
-cd ElectronApp
-# Windows
-.\start --install
+cd ScheduleMobileApp
+npm install
+npm run start
 ```
